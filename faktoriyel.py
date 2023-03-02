@@ -6,7 +6,7 @@ while True:
         if sayi=="q":
             break
         elif sayi<=0:
-            print("sg")
+            print("0 olamaz")
             break
         elif sayi==1:
             print(1)
